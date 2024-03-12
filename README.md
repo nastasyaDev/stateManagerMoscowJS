@@ -1,14 +1,21 @@
 # stateManagerMoscowJS
 
-Привет! Это приложения к моему докладу **"НАШИ КРУГИ АДАСО STATE MANAGERS"** конференции **MoscowJS 58**.
+Привет!
+
+Это приложения к моему докладу **"НАШИ КРУГИ АДАСО STATE MANAGERS"** конференции **MoscowJS 58**.
+
 ***
 ### Контакты:
-tw: @nastasya_dev
-ТГ: https://t.me/nastasya_postoyko
+* tw: @nastasya_dev
+* ТГ: https://t.me/nastasya_postoyko
 ***
+
 ### Схема:
-![image](https://github.com/nastasyaDev/storeManagerMoscowJS/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%83.jpg)
+![WhatShouldIUse](https://github.com/nastasyaDev/storeManagerMoscowJS/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%83.jpg)
 
-
+***
+* Vuex: https://vuex.vuejs.org/
+* Pinia: https://pinia.vuejs.org/
+***
 
 
